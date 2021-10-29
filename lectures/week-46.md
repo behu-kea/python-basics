@@ -13,6 +13,7 @@
   - Løse problemer
   - Lære en syntax
   - Tænke logisk
+- Hvorfor python
 
 - Install PyCharm
 - Hello world in python
@@ -20,4 +21,15 @@
 - Errors
 - Variables, assignment, operator
   - Variable naming
-- 
+    - `lower_case_naming`
+    - `s = 3600` vs `seconds = 3600`
+
+
+
+## Exercises
+
+
+
+### Exercise 1
+
+Write some code that throws an error
