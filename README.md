@@ -1,9 +1,3 @@
-# Python basics
-
-
-
-
-
 ## Semesterplan
 
 | Lektion | Dato  | Emne                                                   | Forberedelse   |
