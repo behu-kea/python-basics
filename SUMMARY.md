@@ -4,3 +4,4 @@
 - Topics
   - [Programming in PyCharm](topics/programming-in-pycharm.md)
 
+- [Semesterplan](https://kompetence.kea.dk/studieordninger/AU_i_Informationsteknologi_2018_08_2019_04.pdf)
