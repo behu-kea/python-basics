@@ -32,6 +32,14 @@ So now we are printing the string `Hello world` to the console
 
 
 
+We also print things on the same line
+
+```python
+print("I am", 23, "years old") # I am 23 years old
+```
+
+
+
 We can even print math operations!
 
 ```python
@@ -114,7 +122,13 @@ How do we fix this error?
 
 Variable are used to hold values. It's a way to save a values inside a small box you could say
 
-HYF_BOX_VARIABLE_IMAGE
+```python
+x = 22
+```
+
+
+
+![Variables are like boxes](../assets/variable-open-box.png)
 
 
 
@@ -165,6 +179,10 @@ addition = 2 + 1
 subtraction = 2 - 1
 multiplication = 2 * 1
 division = 2 / 1
+
+a = 10
+b = 20
+print(a + b) # 30
 ```
 
 
@@ -238,5 +256,29 @@ Now do the same for another a PlayStation 5 that is reduced from 5000 to 4500
 
 
 
-## Project for next time
+## Project for next time - Crypto converter 🚀🌕💎🙌
+
+We are joining the crypto train, choo choo everybody aboard 🚂☁️☁️☁️☁️
+
+Let's make a python program that works like this👇
+
+A user specifies how many dollars he wants to convert into crypto currencies. Using the amount the user inputtet, print out how much crypto he could get with different currencies. Let's take an example
+
+A user want to put 100$ into crypto. For 100$ he can get
+
+- 0.00162450 bitcoin
+- 0.02299988 etherium
+- 16.14622615 tezos
+
+The amount a user wants to use on crypto, create that as a variable and give it a good name
+
+
+
+### Optional
+
+Instead of changing the value of a variable to say how much money a user should put into crypto then ask the user!
+
+You can read about that here: https://www.geeksforgeeks.org/taking-input-in-python/
+
+Now you can even ask the user for his name before converting maybe
 
