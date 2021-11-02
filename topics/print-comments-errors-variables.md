@@ -250,7 +250,7 @@ Now using those variables print out the following 👇
 Save 30% on a Samsung television. Reduced from 3000 to 2000
 ```
 
-*Hint: To print without the new line, use this piece of code `print('String you want to print with no newline', end='')`*
+*Hint: To print without the new line, check the print section!*
 
 Now do the same for another a PlayStation 5 that is reduced from 5000 to 4500
 
