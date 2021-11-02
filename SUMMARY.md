@@ -5,6 +5,5 @@
   - [Programming in PyCharm](topics/programming-in-pycharm.md)
   -  [Printing, comments, errors and variables](topics/print-comments-errors-variables.md) 
 
-- [Semesterplan](https://kompetence.kea.dk/studieordninger/AU_i_Informationsteknologi_2018_08_2019_04.pdf)
 - [Studieordning](https://kompetence.kea.dk/studieordninger/AU_i_Informationsteknologi_2018_08_2019_04.pdf)
 
