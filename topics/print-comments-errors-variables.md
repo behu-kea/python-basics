@@ -156,6 +156,19 @@ print(denmark_population)
 
 
 
+#### Operators
+
+In python we can add, subtract, multiply and divide as follows
+
+```python
+addition = 2 + 1
+subtraction = 2 - 1
+multiplication = 2 * 1
+division = 2 / 1
+```
+
+
+
 ## Exercises
 
 
@@ -184,4 +197,46 @@ print name
 ```
 
 
+
+### Exercise 4
+
+Create a variable that will contain your favourite color. Print out the color
+
+
+
+### Exercise 5
+
+Print the following lines 👇
+
+```
+Get up, Stand up 
+Stand up for your right 
+Get up, Stand up 
+Don´t give up the fight!
+							Bob Marley
+```
+
+
+
+### Exercise 6
+
+A client has asked us if we can write a program for his webshop! His webshop has different products they sometimes reduce in price. What our program need to do is figure out the percentage decrease a product has been reduced
+
+The first product we receive is a Samsung television that is on sale. Before it was 3000 kr. now it is 2000 kr. We need to figure out the percentage decrease. 
+
+Create variable for the Samsung television, the before price and the after price. Now create a new variable that will be the percentage decrease
+
+Now using those variables print out the following 👇
+
+```
+Save 30% on a Samsung television. Reduced from 3000 to 2000
+```
+
+*Hint: To print without the new line, use this piece of code `print('String you want to print with no newline', end='')`*
+
+Now do the same for another a PlayStation 5 that is reduced from 5000 to 4500
+
+
+
+## Project for next time
 
