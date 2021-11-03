@@ -1,6 +1,6 @@
 # Week 46 - Introduction to programming
 
-- 
+- [Welcome](assets/python-basics-welcome.key)
 
 - Install PyCharm
 - Hello world in python
