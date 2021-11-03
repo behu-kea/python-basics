@@ -4,7 +4,7 @@
 
 ## Today
 
-- [Welcome](assets/python-basics-welcome.key)
+- [Welcome](../assets/python-basics-welcome.key)
 - [Installing PyCharm](../topics/installing-pycharm.md)
 
 - [Programming in PyCharm](../topics/programming-in-pycharm.md)
