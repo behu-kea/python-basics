@@ -9,6 +9,7 @@
 
 - [Programming in PyCharm](../topics/programming-in-pycharm.md)
 - [Printing, comments, errors and variables](../topics/print-comments-errors-variables.md)
+- Project to next time: [Crypto converter 🚀🌕💎🙌](../projects/crypto-converter.md)
 
 
 
