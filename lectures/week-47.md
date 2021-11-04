@@ -1,47 +1,49 @@
-# Week 46 - Strings
-
-- Tekststrenge og manipulering af tekststrenge.
-- At modtage input fra brugeren af dit program. 
-- Arbejde med tal i tekststrenge.
-- Formatere strenge så de kan printes. 
-- Sammensætning, indeksering og udskæring af tekststrenge.
+# Week 47 - Strings
 
 
 
-Hardys topics
+Todays program
 
-- Use input and f strings (print(f"Myname is {name}"))
-- Escape, Multiline Strings & Paragraph
-  - `ext1 = "She said, \"What time is it?\""`
-  - `ong_string= "This is an output \of multiline \strings..."`
-  - `Use """or '''to write a long paragraph`
-- Index, length
-- Concatenation `+`
-- String methods
-  - Slice
-  - lower
-  - upper
-  - rstrip
-  - lstrip
-  - strip
-  - Startswith endswith
-  - Find
-  - Replace
-- Strings and numbers
-- 
+- Using input
+- Escaping, multiline and paragraphs
+- Index and length
+- Concatenation
+  - Convert int to number and number to int
+- String methods in groups
+  - `slice`
+  - `lower`
+  - `upper`
+  - `rstrip`
+  - `lstrip`
+  - `strip`
+  - `find`
 
 
 
+## Exercises
 
 
-## Exercise 1
 
-- Create a string and print its length
-- Create two strings and concatenate them. Print the resulting variable
-- Create two strings and concatenate them with a space in between. Print the resulting variable
-- Print the string `zing` be using slice notation to specify the correct range of characters in the string `bazinga`
-- Create one string, now create two new variables. One should contain the string with all characters in lowercase. The other in uppercase
-- 
+### Exercise 1
+
+In groups of two find a partner group. Then with the partner group decide what group takes what topic. Now investigate the topic: What does the method/methods do? Create some code showing how to use the method in a program
+
+- `startswith` and `endswith`
+- `replace`
+
+
+
+- 4.1.1
+- Create a multiline print statement
+- 4.2.1
+- 4.2.2
+- 4.2.4
+- 4.3.1
+- 4.3.3
+- 4.3.4
+- 4.4.1
+- 4.6.4
+- 4.9
 
 
 

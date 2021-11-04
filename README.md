@@ -1,18 +1,19 @@
 ## Semesterplan
 
-| Lektion | Dato  | Emne                                                   | Forberedelse   | Underviser          |
-| ------- | ----- | ------------------------------------------------------ | -------------- | ------------------- |
-| 1       | 15/11 | Introduktion til Grundlæggende Programmering i Python  | Kapitel 1 og 3 | Benjamin og Nicklas |
-| 2       | 22/11 | Tekststrenge og tekstrenges metoder                    | Kapitel 4      | Benjamin            |
-| 3       | 29/11 | Tal, matematik og funktioner                           | Kapitel 5      | Nicklas             |
-| 4       | 6/12  | Loops og if                                            | Kapitel 6      | Benjamin            |
-| 5       | 13/12 | Betinget logik,kontrolflow og debugging + juleopgave 🎅 | Kapitel 7 + 8  | Benjamin            |
-| 6       | 20/12 | Datastrukturer, Tuples, Lists, and Dictionaries        | Kapitel 9      | Nicklas             |
-| 7       | 3/1   | Opsamling + eksamensprojekt udleveres                  |                | Benjamin            |
-| -       | 17/1  | Aflever eksamensprojekt kl 11                          |                |                     |
-| -       | 24/1  | Eksamen                                                |                |                     |
 
 
+| Lektion     | Dato  | Emne                                                   | Forberedelse   | Underviser          |
+| ----------- | ----- | ------------------------------------------------------ | -------------- | ------------------- |
+| 1 - week 46 | 15/11 | Introduktion til Grundlæggende Programmering i Python  | Kapitel 1 og 3 | Benjamin og Nicklas |
+| 2 - week 47 | 22/11 | Tekststrenge og tekstrenges metoder                    | Kapitel 4      | Benjamin            |
+| 3 - week 48 | 29/11 | Tal, matematik og funktioner                           | Kapitel 5      | Nicklas             |
+| 4 - week 49 | 6/12  | Loops og if                                            | Kapitel 6      | Benjamin            |
+| 5 - week 50 | 13/12 | Betinget logik,kontrolflow og debugging + juleopgave 🎅 | Kapitel 7 + 8  | Benjamin            |
+| 6 - week 51 | 3/1   | Datastrukturer, Tuples, Lists, and Dictionaries        | Kapitel 9      | Nicklas             |
+| 7 - week 1  | 10/1  | Opsamling + eksamensprojekt udleveres                  |                | Benjamin            |
+| -           | 17/1  | Aflever eksamensprojekt kl 11                          |                |                     |
+| -           | 24/1  | Eksamen                                                |                |                     |
+| -           | 25/1  | Eksamen                                                |                |                     |
 
 
 
@@ -37,3 +38,4 @@ Software Developer / Cand.IT from ITU & BA. Informatics from RUC. Experience as 
 I don't have a twitter, so go follow: https://twitter.com/DalsHughes
 
 Email: nifr@kea.dk
+
