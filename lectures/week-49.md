@@ -1,2 +1,2 @@
-# Week 49 - Loops and if
+# Week 49 - Functions and loop
 
