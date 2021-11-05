@@ -51,3 +51,9 @@ In groups of two find a partner group. Then with the partner group decide what g
 ### Exercise 2
 
 Create a variable with your name. If your name contains the character `e` then log out the string `YOUR_NAME contains e`. If not the log out `YOUR_NAME does not contain e`. 
+
+
+
+## Project for next week
+
+[String analyzer and BMI calculator](../projects/string-analyzer-bmi.md)
