@@ -1,3 +1,9 @@
+# Basic programming using Python
+
+This course will be a basic programming course focused on learning the tool that is programming. We will be using python which right now is the more sought after programming language. It is versatile, beginner friendly but extremely powerful. 
+
+
+
 ## Semesterplan
 
 
@@ -14,6 +20,12 @@
 | -           | 17/1  | Aflever eksamensprojekt kl 11                                |                |                     |
 | -           | 24/1  | Exam                                                         |                |                     |
 | -           | 25/1  | Exam                                                         |                |                     |
+
+
+
+## Exam
+
+You will be defending your handed in project over a 20 minute period
 
 
 
