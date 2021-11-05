@@ -4,10 +4,6 @@ PyCharm is an IDE which means integrated development environment. An IDE is wher
 
 
 
-- 
-
-
-
 ## Developing our first program
 
 
