@@ -45,15 +45,3 @@ In groups of two find a partner group. Then with the partner group decide what g
 - 4.6.4
 - 4.9
 
-
-
-
-
-
-
-## Hardy exercises
-
-- Create a string containing an integer, then convert that string intoan actual integer object using int(). Test that your new object isa number by multiplying it by another number and displaying theresult.
-- Create a string object and an integer object, then display them sideby side with a single print statement using str().
-- Write a program that uses input() twice to get two numbers fromthe user, multiplies the numbers together, and displays the result.If the user enters 2 and 4, then your program should print ‘8’.
-- 
