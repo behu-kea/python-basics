@@ -4,6 +4,7 @@
 
 Todays program
 
+- What is a string
 - Using input
 - Escaping, multiline and paragraphs
 - Index and length

@@ -4,6 +4,14 @@ This course will be a basic programming course focused on learning the tool that
 
 
 
+## Course overview
+
+
+
+![Course overview](assets/course-overview.png)
+
+
+
 ## Semesterplan
 
 
