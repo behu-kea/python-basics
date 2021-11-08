@@ -28,7 +28,15 @@ getFullname("Camilla", "Jensen", "female", True) # returns "Lady Camilla Jensen"
 getFullname("Benjamin", "Hughes", "male", False) # returns "Benjamin Hughes"
 ```
 
-Now create a small program simulating a bit of a flight booking process using the method you just created and `input`. 
+
+
+## Using `getFullname`
+
+Now simulate a bit of a flight booking process using the method you just created and `input`. 
+
+Try and create a userfriendly application that asks for the users details and then shows the correct fullname
+
+
 
 *Inspired from https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript1/week2/homework.md*
 
