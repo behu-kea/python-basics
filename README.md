@@ -41,7 +41,7 @@ You will be defending your handed in project over a 20 minute period
 
 
 
-## Benjamin Hughes
+### Benjamin Hughes
 
 Digital Media Engineer from DTU. Has worked 8 years with software, primarely as a web developer. Has done interactive graphics at [ https://www.dr.dk/]( https://www.dr.dk/), been a co-funder at a company called Sunmapper and been an Educational Director for a web coding school called [https://www.hackyourfuture.dk/](https://www.hackyourfuture.dk/)
 
