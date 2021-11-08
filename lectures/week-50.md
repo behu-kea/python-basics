@@ -49,7 +49,7 @@
 - 8.2.2
 - 8.5.1
 - 8.5.2
-- Create a game where two users put in their names. Now two dice are rolled, the user with the highest number wins. 
+- Create a game where two users put in their names. Now two dice are rolled, the user with the highest number wins
 
 
 
