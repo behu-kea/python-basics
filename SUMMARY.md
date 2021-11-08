@@ -1,6 +1,11 @@
 - Lectures
   - [Week 46](lectures/week-46.md)
   - [Week 47](lectures/week-47.md)
+  - [Week 48](lectures/week-48.md)
+  - [Week 49](lectures/week-49.md)
+  - [Week 50](lectures/week-50.md)
+  - [Week 01](lectures/week-01.md)
+  - [Week 02](lectures/week-02.md)
 - Topics
   - [Installing PyCharm](topics/installing-pycharm.md)
   - [Programming in PyCharm](topics/programming-in-pycharm.md)
