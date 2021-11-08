@@ -71,6 +71,10 @@
 
 
 
+## Project for next class
+
+[Flight booking fullname ✈️](../projects/flight-booking-fullname.md)
+
 
 
 ## Before next class
