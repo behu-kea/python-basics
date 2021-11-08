@@ -2,6 +2,20 @@
 
 
 
+<!--
+
+## Peer instruction
+
+
+
+### Question 1
+
+
+
+-->
+
+
+
 - Calling functions
   - Argument (input)
   - return
@@ -21,3 +35,44 @@
   - Each character in a string
   - range
 - Scope
+
+
+
+## Exercises
+
+
+
+- 6.2.1
+
+- 6.2.3
+
+- 6.3
+
+- Create a function called `getCircleArea`. It should have the `radius` of the circle as parameter and return the circle area. What happens if we dont return anything in the function?
+
+- Write a program that replaces all spaces with 👏 and makes the text uppercase.
+
+  ```
+  I am happy today
+  I👏AM👏HAPPY👏TODAY
+  ```
+
+- 6.4.1
+
+- 6.4.2
+
+- 6.4.3
+
+- Use a loop to print the numbers starting from 5 to -5
+
+- 6.5
+
+- Prints a random number of hashtags (`#`) 
+
+
+
+
+
+## Before next class
+
+Check if you are ready with this quiz:https://realpython.com/quizzes/pybasics-functions-loops/

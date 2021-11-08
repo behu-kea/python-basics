@@ -22,6 +22,20 @@ Todays program
 
 
 
+<!--
+
+## Peer instruction
+
+
+
+### Question 1
+
+
+
+-->
+
+
+
 ## Exercises
 
 
@@ -58,3 +72,9 @@ Create a variable with your name. If your name contains the character `e` then l
 ## Project for next week
 
 [String analyzer and BMI calculator](../projects/string-analyzer-bmi.md)
+
+
+
+## Before next class
+
+Check if you are ready with this quiz: https://realpython.com/quizzes/pybasics-strings/
