@@ -14,7 +14,7 @@ This course will be a basic programming course focused on learning the tool that
 | 2 - week 47 | 22/11 | Strings, string methods and if else                          | Kapitel 4      | Benjamin            |
 | 3 - week 48 | 29/11 | Numbers and math                                             | Kapitel 5      | Nicklas             |
 | 4 - week 49 | 6/12  | Functions and loops                                          | Kapitel 6      | Benjamin            |
-| 5 - week 50 | 13/12 | Conditional logic, control flow and debugging + christmas exercise 🎅 | Kapitel 7 + 8  | Benjamin            |
+| 5 - week 50 | 13/12 | Debugging, conditional logic, control flow  + christmas exercise 🎅 | Kapitel 7 + 8  | Benjamin            |
 | 6 - week 1  | 3/1   | Tuples, Lists and Dictionaries                               | Kapitel 9      | Nicklas             |
 | 7 - week 2  | 10/1  | Course review + exam project start                           |                | Benjamin            |
 | -           | 17/1  | Handin exam project 11                                       |                |                     |
