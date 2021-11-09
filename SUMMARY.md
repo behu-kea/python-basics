@@ -17,4 +17,5 @@
   - [Rock paper scissor 🤘🔖✂](projects/rock-paper-scissor.md)
 - [Studieordning](https://kompetence.kea.dk/studieordninger/AU_i_Informationsteknologi_2018_08_2019_04.pdf)
 - [Python cheatsheet](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=938377)
+- [Futurecoder.io](https://futurecoder.io/course/#ide)
 
