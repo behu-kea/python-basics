@@ -2,6 +2,15 @@
 
 
 
+## Preparation videos
+
+- [https://youtu.be/8fN8h7REnyo](https://youtu.be/8fN8h7REnyo)
+- [https://youtu.be/YZ11aS9QV6c](https://youtu.be/YZ11aS9QV6c)
+- [https://youtu.be/J8hP1MTbBeg](https://youtu.be/J8hP1MTbBeg)
+- [https://youtu.be/GDEaklG5Gbw](https://youtu.be/GDEaklG5Gbw)
+
+
+
 <!--
 
 ## Peer instruction
@@ -13,6 +22,8 @@
 
 
 -->
+
+
 
 
 
