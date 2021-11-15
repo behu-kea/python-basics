@@ -209,7 +209,7 @@ Fix this code one line at a time!
 
 ```python
 print('Welcome to my python program)
-fourSquared  4 * 2
+fourDoubled  4 * 2
 name = benjamin
 print name
 ```
