@@ -10,17 +10,15 @@ PyCharm is an IDE which means integrated development environment. An IDE is wher
 
 ### Creating a new project
 
-Open up PyCharm and click on New Project.
+Open up PyCharm and click on New Project. 
 
-![Creating a new project](../assets/pycharm-new-project.png)
+![pycharm-new-project](../assets/pycharm-new-project.png)
 
 Then we get a screen like this 👇
 
+First select a location on your computer where you want to save the project. Now select `Previously configured interpreter`. Untick `create a main.py welcome script`. Now click on `Create`
 
-
-![CleanShot 2021-11-01 at 09.20.54@2x](../assets/pycharm-new-project-settings.png)
-
-
+![PyCharm new project](../assets/pycharm-new-project-settings.png)
 
 We have now created a new but empty project 🎉
 
