@@ -236,6 +236,36 @@ Don´t give up the fight!
 
 
 
+### Exercise 5.0
+
+Write variables to represent a rectangle:
+
+- Width of 5.5
+- Height of 8.5
+
+Compute the area and the perimeter of the rectangle and print the results
+
+
+
+### Exercise 5.1
+
+Create a small program that can calculate the area of a circle using some radius of a circle
+
+
+
+### Exercise 5.2
+
+Create a variable that sums the value of two variables
+
+
+
+### Exercise 5.3
+
+- Convert 100 Fahrenehit to Celcius
+- Compute how many miles 19 kilometers are
+
+
+
 ### Exercise 6
 
 A client has asked us if we can write a program for his webshop! His webshop has different products they sometimes reduce in price. What our program need to do is figure out the decrease in price a product has been reduced
