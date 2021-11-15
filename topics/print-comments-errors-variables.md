@@ -218,7 +218,7 @@ print name
 
 ### Exercise 4
 
-Create a variable that will contain your favourite color. Print out the color
+Create a variable that will contain your favourite color. Print out the value/text of the variable
 
 
 
