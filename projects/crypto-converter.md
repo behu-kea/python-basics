@@ -41,3 +41,25 @@ You can read about that here in the book or here https://www.geeksforgeeks.org/t
 
 Now you can even ask the user for his name before converting maybe. 
 
+
+
+## Handin
+
+Handin your project here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=945220
+
+
+
+**Deadline: Sunday 21/11 23:59**
+
+
+
+### How to handin
+
+- Navigate to the link above
+- Click `Besvar opgave`
+- Leave the `Dit svar` blank
+- Add your `.py` file where it says `TIlføj filer`
+  - You can do that by dragging and dropping 
+  - Or click the area and select the file
+- Click `Send`
+
