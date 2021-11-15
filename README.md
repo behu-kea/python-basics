@@ -16,18 +16,18 @@ This course will be a basic programming course focused on learning the tool that
 
 
 
-| Lektion     | Dato  | Emne                                                         | Forberedelse   | Underviser          |
-| ----------- | ----- | ------------------------------------------------------------ | -------------- | ------------------- |
-| 1 - week 46 | 15/11 | Introduction to basic programming in Python                  | Kapitel 1 og 3 | Benjamin og Nicklas |
-| 2 - week 47 | 22/11 | Strings, string methods and if else                          | Kapitel 4      | Benjamin            |
-| 3 - week 48 | 29/11 | Numbers and math                                             | Kapitel 5      | Nicklas             |
-| 4 - week 49 | 6/12  | Functions and loops                                          | Kapitel 6      | Benjamin            |
-| 5 - week 50 | 13/12 | Debugging, conditional logic, control flow  + christmas exercise 🎅 | Kapitel 7 + 8  | Benjamin            |
-| 6 - week 1  | 3/1   | Tuples, Lists and Dictionaries                               | Kapitel 9      | Nicklas             |
-| 7 - week 2  | 10/1  | Course review + exam project start                           |                | Benjamin            |
-| -           | 17/1  | Handin exam project 11                                       |                |                     |
-| -           | 24/1  | Exam                                                         |                |                     |
-| -           | 25/1  | Exam                                                         |                |                     |
+| Class       | Date  | Subject                                                      | Preparation                                                 | Teacher             |
+| ----------- | ----- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------- |
+| 1 - week 46 | 15/11 | Introduction to basic programming in Python                  | Chapter 1 og 3                                              | Benjamin og Nicklas |
+| 2 - week 47 | 22/11 | Strings, string methods and if else                          | Chapter 4                                                   | Benjamin            |
+| 3 - week 48 | 29/11 | Numbers and math                                             | Chapter 5                                                   | Nicklas             |
+| 4 - week 49 | 6/12  | Functions and loops                                          | Chapter 6, [Videos](lectures/week-49.md#preparation-videos) | Benjamin            |
+| 5 - week 50 | 13/12 | Debugging, conditional logic, control flow  + christmas exercise 🎅 | Chapter 7 + 8                                               | Benjamin            |
+| 6 - week 1  | 3/1   | Tuples, Lists and Dictionaries                               | Chapter 9                                                   | Nicklas             |
+| 7 - week 2  | 10/1  | Course review + exam project start                           |                                                             | Benjamin            |
+| -           | 17/1  | Handin exam project 11                                       |                                                             |                     |
+| -           | 24/1  | Exam                                                         |                                                             |                     |
+| -           | 25/1  | Exam                                                         |                                                             |                     |
 
 
 
