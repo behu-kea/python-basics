@@ -4,6 +4,8 @@
 
 Todays program
 
+- Feedback on Crypto converter
+
 - What is a string
 - Using input
 - Escaping, multiline and paragraphs
@@ -42,10 +44,19 @@ Todays program
 
 ### Exercise 1
 
-In groups of two find a partner group. Then with the partner group decide what group takes what topic. Now investigate the topic: What does the method/methods do? Create some code showing how to use the method in a program
+In groups of two find a partner group. Then with the partner group decide what group takes what topic. Now investigate what the methods below does? Create some code showing how to use the method in a program
 
-- `startswith` and `endswith`
-- `replace`
+- `startswith` and `index`
+- `replace` and`endswith`
+
+
+
+1. Spend 10 minutes investigating in your group
+2. Spend 10 minutes presenting
+
+
+
+---
 
 
 
