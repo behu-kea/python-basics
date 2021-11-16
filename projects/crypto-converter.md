@@ -57,9 +57,9 @@ Handin your project here: [https://kea-fronter.itslearning.com/LearningToolEleme
 
 - Navigate to the link above
 - Click `Besvar opgave`
-- Leave the `Dit svar` blank
-- Add your `.py` file where it says `TIlføj filer`
+- Leave `Dit svar` blank
+- Add your `.py` file where it says `Tilføj filer`
   - You can do that by dragging and dropping 
-  - Or click the area and select the file
+  - Or click the area and select the `.py` file 
 - Click `Send`
 
