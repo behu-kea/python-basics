@@ -23,8 +23,8 @@ This course will be a basic programming course focused on learning the tool that
 | 3 - week 48 | 29/11 | Numbers and math                                             | Chapter 5                                                   | Nicklas             |
 | 4 - week 49 | 6/12  | Functions and loops                                          | Chapter 6, [Videos](lectures/week-49.md#preparation-videos) | Benjamin            |
 | 5 - week 50 | 13/12 | Debugging, conditional logic, control flow  + christmas exercise 🎅 | Chapter 7 + 8                                               | Benjamin            |
-| 6 - week 1  | 3/1   | Tuples, Lists and Dictionaries                               | Chapter 9                                                   | Nicklas             |
-| 7 - week 2  | 10/1  | Course review + exam project start                           |                                                             | Benjamin            |
+| 6 - week 1  | 3/1   | Tuples, Lists and Dictionaries                               | Chapter 9                                                   | Benjamin            |
+| 7 - week 2  | 10/1  | Course review + exam project start                           |                                                             | Nicklas             |
 | -           | 17/1  | Handin exam project 11                                       |                                                             |                     |
 | -           | 24/1  | Exam                                                         |                                                             |                     |
 | -           | 25/1  | Exam                                                         |                                                             |                     |
