@@ -2,16 +2,36 @@
 
 
 
-Todays program
+## Todays program
 
 - Feedback on Crypto converter
 
 - What is a string
+
 - Using input
-- Escaping, multiline and paragraphs
+
+  - Compare with Java
+
+  - ```java
+    import java.util.Scanner;  // Import the Scanner class
+    class Main {
+      public static void main(String[] args) {
+        Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+        String text = myObj.nextLine();
+        System.out.println(text);
+      }
+    }
+    ```
+
+  - 
+
+- Escaping, multiline (press enter ) and paragraphs `"""` (prints the new line)
+
 - Index and length
+
 - Concatenation
   - Convert int to number and number to int
+
 - String methods in groups
   - `slice`
   - `lower`
@@ -19,7 +39,8 @@ Todays program
   - `rstrip`
   - `lstrip`
   - `strip`
-  - `find`
+  - contains using `in`
+
 - if else sentence
 
 
@@ -48,8 +69,8 @@ Todays program
 
 In groups of two find a partner group. Then with the partner group decide what group takes what topic. Now investigate what the methods below does? Create some code showing how to use the method in a program
 
-- `startswith` and `index`
-- `replace` and`endswith`
+- `startswith` and `find`
+- `replace` and `endswith`
 
 
 
