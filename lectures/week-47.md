@@ -24,17 +24,19 @@ Todays program
 
 
 
-<!--
-
-## Peer instruction
 
 
+## Feedback on Crypto Converter
 
-### Question 1
-
-
-
--->
+- Really well done! 
+  - good variable names
+  - cleary understanding what i taught yesterday
+  - really Nice with `round`
+- Good structure with 
+  - first defining global stuff
+  - Calculating then printing
+- `print(f"For {amount_spend}$ you can get")`
+- Missing comments
 
 
 
@@ -58,7 +60,11 @@ In groups of two find a partner group. Then with the partner group decide what g
 
 ---
 
+### Exercises - level 1
 
+Level 1 will get you up to speed with working with the 
+
+Do the following exercises from the book 👇
 
 - 4.1.1
 - Create a multiline print statement
@@ -70,13 +76,61 @@ In groups of two find a partner group. Then with the partner group decide what g
 - 4.3.4
 - 4.4.1
 - 4.6.4
-- 4.9
 
 
 
 ### Exercise 2
 
 Create a variable with your name. If your name contains the character `e` then log out the string `YOUR_NAME contains e`. If not the log out `YOUR_NAME does not contain e`. 
+
+
+
+### Exercises - level 2
+
+These exercises are a bit more open ended and not everything have been taught. So you will need to research for yourself!
+
+
+
+### L33t H4x0r
+
+- 4.9
+
+
+
+### Valid password
+
+Let a user input his/her password. Now we have to figure out if the password is valid. There are the rules:
+
+- Must be longer than 8 characters
+- Cannot contain the word password
+- Has to have a special character
+- Must not start with a number
+
+*Hint: look into the `and` operator*
+
+
+
+#### Password score
+
+Figure out a way to score how complicated the password is. You have to come up with the formula. A super simple method would be just to score based on the length of the password. Based on the score print something to the user
+
+Example of the code
+
+```
+Welcome to this password checker. What is your password?
+monkey123_
+monkey123_ is a valid passsword. It's score is 234. That makes the password good
+```
+
+
+
+### Valid email
+
+Write a program that checks if an email is valid. Off course the `@` you have to check for. But what if a user does not write a domain fx. 
+
+*Hint: this can be a gigantuan task. So scope it*
+
+
 
 
 
