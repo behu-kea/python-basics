@@ -23,8 +23,6 @@
     }
     ```
 
-  - 
-
 - Escaping, multiline (press enter ) and paragraphs `"""` (prints the new line)
 
 - Index and length
@@ -49,15 +47,19 @@
 
 ## Feedback on Crypto Converter
 
+- Har i lavet en gruppe hvor i kan stille hinanden spørgsmål?
+- Der er virkelig stor forskel. Brug det til jeres fordel!
 - Really well done! 
   - good variable names
   - cleary understanding what i taught yesterday
   - really Nice with `round`
-- Good structure with 
-  - first defining global stuff
-  - Calculating then printing
+  - Quite a lot of input
+  - Some of you are pretty advanced (functions, while, input)
+- Good structure. Easy to read
 - `print(f"For {amount_spend}$ you can get")`
 - Missing comments
+- Create variable for expressions fx `tezos*valutaforbrug/100`
+- English variable names
 
 
 
@@ -75,7 +77,7 @@ In groups of two find a partner group. Then with the partner group decide what g
 
 
 1. Spend 10 minutes investigating in your group
-2. Spend 10 minutes presenting
+2. Spend 10 minutes presenting. Make it easy to understand
 
 
 
@@ -83,7 +85,7 @@ In groups of two find a partner group. Then with the partner group decide what g
 
 ### Exercises - level 1
 
-Level 1 will get you up to speed with working with the 
+Level 1 will get you up to speed with working with the basics
 
 Do the following exercises from the book 👇
 
@@ -142,6 +144,18 @@ Welcome to this password checker. What is your password?
 monkey123_
 monkey123_ is a valid passsword. It's score is 234. That makes the password good
 ```
+
+
+
+Example of the code
+
+```
+Welcome to this password checker. What is your password?
+123abx
+123abx is not a valid passsword. It's score is 25. That makes the password bad
+```
+
+
 
 
 
