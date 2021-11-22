@@ -4,7 +4,7 @@
 
 [Join her](https://teams.microsoft.com/l/meetup-join/19%3aw330wMm3u592zdz4EbpSEHRvRVjDfRFH_6TWUiY9m-A1%40thread.tacv2/1637596204654?context={"Tid"%3a"d10c3c6e-c228-4944-8b6a-6067c6afe3c9"%2c"Oid"%3a"32e4ca2f-6ba3-4bdf-bb5f-7414a5ae6d0b"})
 
-
+https://behu.gitbook.io/python-basics/lectures/week-47
 
 ## Todays program
 
@@ -108,7 +108,7 @@ Do the following exercises from the book 👇
 
 ### Exercise 2
 
-Create a variable with your name. If your name contains the character `e` then log out the string `YOUR_NAME contains e`. If not the log out `YOUR_NAME does not contain e`. 
+Create a variable with your name. If your name contains the character `e` then print the string `YOUR_NAME contains e`. If not the log out `YOUR_NAME does not contain e`. 
 
 
 
