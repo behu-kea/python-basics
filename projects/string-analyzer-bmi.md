@@ -43,3 +43,28 @@ Create a new python file that asks the user for their weight and height. Using t
 *Optional*
 
 What if the user does not write a number as input?
+
+
+
+
+
+## Handin
+
+Handin your project here: [https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=947379](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=947379)
+
+
+
+**Deadline: Sunday 28/11 23:59**
+
+
+
+### How to handin
+
+- Navigate to the link above
+- Click `Besvar opgave`
+- Leave `Dit svar` blank
+- Add your `.py` file where it says `Tilføj filer`
+  - You can do that by dragging and dropping 
+  - Or click the area and select the `.py` file 
+- Click `Send`
+
