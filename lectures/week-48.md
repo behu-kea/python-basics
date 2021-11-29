@@ -1,8 +1,15 @@
 # Week 48 - Maths
 
+**Teams møde: **
+
 #### Before <u>next</u> class (w. 49) 
 
 Check if you are ready with this quiz: https://realpython.com/quizzes/pybasics-numbers/
+
+- [https://youtu.be/8fN8h7REnyo](https://youtu.be/8fN8h7REnyo)
+- [https://youtu.be/YZ11aS9QV6c](https://youtu.be/YZ11aS9QV6c)
+- [https://youtu.be/J8hP1MTbBeg](https://youtu.be/J8hP1MTbBeg)
+- [https://youtu.be/GDEaklG5Gbw](https://youtu.be/GDEaklG5Gbw)
 
 ## Todays program
 
@@ -87,7 +94,7 @@ Hint & Verification: https://www.calculatorsoup.com/calculators/geometry-plane/p
 
 - Write a program that asks the user for two input numbers and prints the maximum number
 
-- Expand the program such that is asks the user for three input numbers anad prints the maximum number
+- Expand the program such that is asks the user for three input numbers and prints the maximum number
 - Write a program  that asks for the user's name. If the name is "Bond" make it print "Welcome on board 007." Otherwise make it print "Good morning *NAME*". (Replace Name with user's name)
 
 #### Exercise 2

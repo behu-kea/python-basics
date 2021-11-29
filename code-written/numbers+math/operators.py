@@ -3,3 +3,5 @@
 #result = "statens" * 2
 
 #result = 5 * 2 + 5
+
+print(result)
