@@ -2,11 +2,14 @@
 # Create a new python file that asks the user for their weight and height.
 # Using the weight and height calculate the BMI and print that to the user in a user friendly way
 
-height = float(input("Enter your height in cm: "))
-weight = float(input("Enter your weight in kg: "))
+is_valid = False
+
+while is_valid == False:
+
+    weight = float(input("Enter your weight in kg: "))
+    height = float(input("Enter your height in cm: "))
 
 BMI = weight / (height / 100) ** 2
-
 print(f"You BMI is {BMI}")
 
 if BMI <= 18.4:

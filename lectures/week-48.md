@@ -61,7 +61,7 @@ print(another_result) #Will print 4
 - The program prints how many kilometers that equates to
   - One mile is 1.609344 km
 
-##### How many hours? 
+##### How many seconds? 
 
 - Write a program that prompts the user for a number of days
 - The program prints how many seconds the amount of days equates to
