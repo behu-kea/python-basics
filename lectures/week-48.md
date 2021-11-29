@@ -25,13 +25,13 @@ Check if you are ready with this quiz: https://realpython.com/quizzes/pybasics-n
 **Square root**
 
 ```python
-sqrt(4)
+math.sqrt(4)
 ```
 
 **Exponent**
 
 ```python
-pow(2, 4) #Returns 2 to the power of 4
+math.pow(2, 4) #Returns 2 to the power of 4
 
 #OR
 
@@ -42,10 +42,10 @@ result = 2**4 #Returns 2 to the power of 4
 
 ```python
 #Rounding upwards 
-result = ceil(4.3)
+result = math.ceil(4.3)
 
 #Rounding down
-another_result = floor(4.5)
+another_result = math.floor(4.5)
 
 print(result) #Will print 5
 print(another_result) #Will print 4
