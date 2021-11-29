@@ -1,6 +1,6 @@
 # Week 48 - Maths
 
-**Teams møde: **
+**Teams møde: **https://teams.microsoft.com/l/meetup-join/19:w330wMm3u592zdz4EbpSEHRvRVjDfRFH_6TWUiY9m-A1@thread.tacv2/1638200557695?context=%7B%22Tid%22:%22d10c3c6e-c228-4944-8b6a-6067c6afe3c9%22,%22Oid%22:%2203a0eca4-8da8-409e-a1aa-94505c23075f%22%7D
 
 #### Before <u>next</u> class (w. 49) 
 
