@@ -1,5 +1,7 @@
 # US population forecasting
 
+**Hand-in: ** https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=949611
+
 The US Census Bureau projects population based on the following assumptions: 
 
 - One birth every 7 seconds 
