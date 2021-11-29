@@ -10,9 +10,6 @@ Check if you are ready with this quiz: https://realpython.com/quizzes/pybasics-n
 - Numerical types
 - Math functions 
 - Boolean operators / operands
-  - If / Else
-
-
 
 ## Math methods
 
@@ -51,8 +48,8 @@ print(another_result) #Will print 4
 
 ##### How many miles? 
 
-- Write a program that prompts the user for a number of kilometers
-- The program prints how many miles that equates to in miles
+- Write a program that prompts the user for a number of miles
+- The program prints how many kilometers that equates to
   - One mile is 1.609344 km
 
 ##### How many hours? 
