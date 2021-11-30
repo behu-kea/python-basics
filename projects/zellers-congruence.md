@@ -38,7 +38,7 @@ Write a program that will calculate the result of Zellers Congruence
 
 - *K* the year of the century *year modulus 100*
 - *J* is the [zero-based](https://en.wikipedia.org/wiki/Zero-based_numbering) century For example, the zero-based centuries for 1995 and 2000 are 19 and 20 respectively
-- **⌊...⌋ **is the **floor** function
+- **⌊...⌋ ** is the **floor** function
 - mod is the [modulo operation](https://en.wikipedia.org/wiki/Modulo_operation) or remainder after division (%)
 
 **note** in this algorithm January and February are counted as months 13 and 14 of the previous year. E.g. if it is 2 February 2010, the algorithm counts the date as the second day of the fourteenth month of 2009 (02/14/2009 in DD/MM/YYYY format)
