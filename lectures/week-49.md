@@ -80,6 +80,92 @@
 
 - Prints a random number of hashtags (`#`) 
 
+- Write a method that as a parameter gets a number. It should then print to the console if the number is negative, positive or zero
+
+
+
+### Level 2
+
+
+
+#### Exercise 1
+
+Define a function which counts and prints vowels and consonant in a word.
+
+
+
+#### Exercise 1.1
+
+Write a python method to find the smallest number among three numbers. The number should come from a user inputting 3 numbers
+
+
+
+#### Exercise 2
+
+Write a method to find the middle character of a string. The method should take a string as parameter
+
+```python
+middleCharacter = getMiddleCharacter("benjamin"); 
+print(middleCharacter); # j
+```
+
+
+
+#### Exercise 3
+
+Write a java method to calculate the area of a triangle. It should take 3 sides as parameter.
+
+Expected Output:
+
+```
+Input Side-1: 10                                                                               
+Input Side-2: 15                                                                               
+Input Side-3: 20                                                                              
+The area of the triangle is 72.6184377413890
+```
+
+
+
+#### Exercise 4
+
+Lav en metode ved navn printNumbers som tager et naturligt tal, maximum, som argument og skriver tallene fra 1 til og med maximum i firkantede paranteser. For eksempel skal metoden håndtere disse kald:
+
+```python
+printNumbers(15);
+printNumbers(5);
+```
+
+og producere følgende output:
+
+```
+[1][2][3][4][5][6][7][8][9][10][11][12][13][14][15]
+[1][2][3][4][5]
+```
+
+
+
+#### Exercise 5
+
+Calculate the sum of digits of a number given by user.
+
+Fx
+
+```python
+sum1 = getSumOfNumbers(123)
+print(sum1) # 6
+
+sum2 = getSumOfNumbers(12345)
+print(sum2) # 15
+```
+
+
+
+#### Exercise 6 - Fizz buzz
+
+
+
+
+
 
 
 ## Project for next class
