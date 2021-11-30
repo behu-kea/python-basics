@@ -162,15 +162,53 @@ print(sum2) # 15
 
 #### Exercise 6 - Fizz buzz
 
+First ask the user to specify two numbers `start` and `end`
+
+Write a Python method which iterates the integers from `start` to `end`. For  multiples of three print "Fizz" instead of the number and for the  multiples of five print "Buzz". For numbers which are multiples of both  three and five print "FizzBuzz".
+
+```python
+start = 10
+end = 16
+fizzBuzz(start, end)
+# Buzz
+# 11
+# Fizz
+# 13
+# 14
+# Fizz Buzz
+# 16
+```
 
 
 
+##### User defines multiples
+
+Now instead of fizz being printede when multiples of 3 and buzz being printed when multiples of 5. Let the user decide what multiples should be printed for fizz and buzz. fx
+
+```python
+start = 10
+end = 16
+fizzMultiple = 4
+buzzMultiple = 6
+fizzBuzz(start, end, fizzMultiple, buzzMultiple)
+# 10
+# 11
+# Fizz Buzz
+# 13
+# 14
+# 15
+# Fizz
+```
+
+
+
+*Hint: use modulus for this exercise*
 
 
 
 ## Project for next class
 
-[Flight booking fullname ✈️](../projects/flight-booking-fullname.md)
+[Methods project](../projects/methods-project.md)
 
 
 
