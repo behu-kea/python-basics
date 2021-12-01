@@ -70,7 +70,6 @@ Now modify your `trip_cost` function definition. Add a third argument, `spending
 - What is the scope of a variable (in function)?
 - What is the difference between local and global variable?
 - What is the difference between a parameter and an argument?
-- 
 
 
 

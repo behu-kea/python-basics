@@ -19,13 +19,67 @@
 
 ### Question 1
 
+```python
+name = "benjamin"
+size_of_name = len(name)
+last_character = name[size_of_name]
+print(last_character)
+```
 
+What will this program print?
+
+1. `i`
+2. `n`
+3. `8`
+4. `benjamin`
+5. Error thrown
+
+
+
+### Question 2
+
+```python
+print("KøBeNhAvN".lower()[3:6])
+```
+
+What will this program print?
+
+1. `eNhA`
+2. `enha`
+3. `enh`
+4. `københavn`
+5. `kebabenhavn`
+6. Error thrown
+
+
+
+### Question 3
+
+```python
+name = "hello"
+name_size = len(name - 1)
+print(name_size % 3)
+```
+
+1. `0`
+2. `1`
+3. `2`
+4. `3`
+5. `4`
+6. Error thrown
 
 -->
 
 
 
 ## Class overview
+
+- Peer instruction
+- Exercises
+- Halfway through. Students sharing code
+- Continue exercises
+
+
 
 - Calling functions
   - Argument (input)
@@ -53,13 +107,17 @@
 
 
 
+**Function**
+
 - 6.2.1
 
-- 6.2.3
+- 6.2.2
 
 - 6.3
 
 - Create a function called `getCircleArea`. It should have the `radius` of the circle as parameter and return the circle area. What happens if we dont return anything in the function?
+
+- Write a method that as a parameter gets a number. It should then print to the console if the number is negative, positive or zero
 
 - Write a program that replaces all spaces with 👏 and makes the text uppercase.
 
@@ -68,19 +126,13 @@
   I👏AM👏HAPPY👏TODAY
   ```
 
+**Loop**
+
 - 6.4.1
-
 - 6.4.2
-
 - 6.4.3
-
 - Use a loop to print the numbers starting from 5 to -5
-
-- 6.5
-
-- Prints a random number of hashtags (`#`) 
-
-- Write a method that as a parameter gets a number. It should then print to the console if the number is negative, positive or zero
+- Print a random number of hashtags (`#`) 
 
 
 
@@ -94,7 +146,7 @@ Define a function which counts and prints vowels and consonant in a word.
 
 
 
-#### Exercise 1.1
+#### Exercise 1.2
 
 Write a python method to find the smallest number among three numbers. The number should come from a user inputting 3 numbers
 
@@ -160,7 +212,13 @@ print(sum2) # 15
 
 
 
-#### Exercise 6 - Fizz buzz
+#### Exercise 6
+
+6.5
+
+
+
+#### Exercise 7 - Fizz buzz
 
 First ask the user to specify two numbers `start` and `end`
 
@@ -199,8 +257,6 @@ fizzBuzz(start, end, fizzMultiple, buzzMultiple)
 # 15
 # Fizz
 ```
-
-
 
 *Hint: use modulus for this exercise*
 
