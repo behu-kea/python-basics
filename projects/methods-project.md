@@ -75,3 +75,24 @@ Now modify your `trip_cost` function definition. Add a third argument, `spending
 
 *Inspired from https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript1/week2/homework.md*
 
+
+
+## Handin
+
+Handin your project here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=951856
+
+
+
+**Deadline: Sunday 12/12 23:59**
+
+
+
+### How to handin
+
+- Navigate to the link above
+- Click `Besvar opgave`
+- Leave `Dit svar` blank
+- Add your `.py` file where it says `Tilføj filer`
+  - You can do that by dragging and dropping 
+  - Or click the area and select the `.py` file 
+- Click `Send`
