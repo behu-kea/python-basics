@@ -74,6 +74,7 @@ print(name_size % 3)
 
 ## Class overview
 
+- Feedback
 - Peer instruction
 - Exercises
 - Halfway through. Students sharing code
@@ -119,8 +120,6 @@ print(name_size % 3)
 
 - Create a function called `getCircleArea`. It should have the `radius` of the circle as parameter and return the circle area. What happens if we dont return anything in the function?
 
-- Write a method that as a parameter gets a number. It should then print to the console if the number is negative, positive or zero
-
 - Write a program that replaces all spaces with 👏 and makes the text uppercase.
 
   ```
@@ -133,8 +132,8 @@ print(name_size % 3)
 - 6.4.1
 - 6.4.2
 - 6.4.3
-- Use a loop to print the numbers starting from 5 to -5
-- Print a random number of hashtags (`#`) 
+- Use a loop to print the numbers starting from 5 to -5 (You must google to fix this!)
+- Print a random number of hashtags (`#`) (You must google to fix this!)
 
 
 
@@ -144,13 +143,41 @@ print(name_size % 3)
 
 #### Exercise 1
 
-Define a function which counts and prints vowels and consonant in a word.
+Define a function which counts and prints the number of vowels and consonants in a word.
+
+```python
+wordAnalyzer("tesla")
+# Number of vowels is: 2
+# Number of consonants is: 3
+```
+
+
+
+
+
+#### Exerise 1.1
+
+Write a method that as a parameter gets a number. It should then print to the console if the number is negative, positive or zero
+
+```python
+numberAnalyzer(-4) # the number -4 is negative
+numberAnalyzer(2) # the number 2 is positive
+```
 
 
 
 #### Exercise 1.2
 
 Write a python method to find the smallest number among three numbers. The number should come from a user inputting 3 numbers
+
+```
+Put in the first number: 3
+Put in the second number: 7
+Put in the third number: 1000
+The smallest number is 3
+```
+
+
 
 
 

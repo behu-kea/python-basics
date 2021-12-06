@@ -40,7 +40,7 @@ Try and create a userfriendly application that asks for the users details and th
 
 
 
-## Trip calculator
+## Trip calculator - optional
 
 Let's use functions to calculate your trip's costs:
 
