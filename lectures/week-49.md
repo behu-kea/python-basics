@@ -11,6 +11,56 @@
 
 
 
+
+
+## Class overview
+
+- Feedback
+  - Variable lowercase first character
+  - Gode variabel navne. 
+  - God struktur igen. Gode til at dele program elementer op. 
+  - avoid variablenames like 
+    - `res`, `var`, `mm_int`, `l_x_int`,
+    - When using `d`, `h`, etc then refer to the formula in a comment
+
+  - Gerne lidt flere kommentarer
+  - Det er helt fint at tage elementer fra nette. Bare husk at skrive hvor noget kode kommer fra i en kommentar
+  - Fedt at så mange afleverer. Respekt herfra for at lave de her projekter udenom arbejdet!
+
+- Se en opgave fra studerende
+- Peer instruction
+- Exercises
+- Halfway through. Students sharing code
+- Continue exercises
+
+
+
+## Topics
+
+- Calling functions
+  - Argument (input)
+  - return
+  - Examples
+    - `len`
+    - `type(true)`
+- Creating your own function
+  - Parameter
+  - Function body
+  - return (optional)
+  - Calling homemade function
+- While loop
+  - Test condition
+  - Loop body
+  - Loop table
+- For loop
+  - Each character in a string
+  - range
+- Scope
+
+
+
+
+
 <!--
 
 ## Peer instruction
@@ -71,38 +121,6 @@ print(name_size % 3)
 -->
 
 
-
-## Class overview
-
-- Feedback
-- Peer instruction
-- Exercises
-- Halfway through. Students sharing code
-- Continue exercises
-
-
-
-**Topics**
-
-- Calling functions
-  - Argument (input)
-  - return
-  - Examples
-    - `len`
-    - `type(true)`
-- Creating your own function
-  - Parameter
-  - Function body
-  - return (optional)
-  - Calling homemade function
-- While loop
-  - Test condition
-  - Loop body
-  - Loop table
-- For loop
-  - Each character in a string
-  - range
-- Scope
 
 
 
