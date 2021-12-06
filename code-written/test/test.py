@@ -1,7 +1,6 @@
-def lol(start_investment, interest, number_of_years):
-    year_interest = start_investment
-    for i in range(1, number_of_years + 1):
-        year_interest = year_interest + (year_interest * interest)
-        print(year_interest)
+city_name = "KøBeNhAvN"
+city_name_lower = city_name.lower()
+city_name_sliced = city_name_lower[3:6]
+print(city_name_sliced)
 
-lol(100, 0.05, 4)
+print("KøBeNhAvN".lower()[3:6])

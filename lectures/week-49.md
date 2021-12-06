@@ -15,8 +15,6 @@
 
 
 
-
-
 ## Class overview
 
 - Feedback
@@ -162,7 +160,7 @@ print(name_size % 3)
 Define a function which counts and prints the number of vowels and consonants in a word.
 
 ```python
-wordAnalyzer("tesla")
+word_analyzer("tesla")
 # Number of vowels is: 2
 # Number of consonants is: 3
 ```
@@ -176,8 +174,8 @@ wordAnalyzer("tesla")
 Write a method that as a parameter gets a number. It should then print to the console if the number is negative, positive or zero
 
 ```python
-numberAnalyzer(-4) # the number -4 is negative
-numberAnalyzer(2) # the number 2 is positive
+number_analyzer(-4) # the number -4 is negative
+number_analyzer(2) # the number 2 is positive
 ```
 
 
@@ -202,15 +200,15 @@ The smallest number is 3
 Write a method to find the middle character of a string. The method should take a string as parameter
 
 ```python
-middleCharacter = getMiddleCharacter("benjamin"); 
-print(middleCharacter); # j
+middle_character = get_middle_character("benjamin"); 
+print(middle_character); # j
 ```
 
 
 
 #### Exercise 3
 
-Write a java method to calculate the area of a triangle. It should take 3 sides as parameter.
+Write a python method to calculate the area of a triangle. It should take 3 sides as parameter.
 
 Expected Output:
 
@@ -228,8 +226,8 @@ The area of the triangle is 72.6184377413890
 Lav en metode ved navn printNumbers som tager et naturligt tal, maximum, som argument og skriver tallene fra 1 til og med maximum i firkantede paranteser. For eksempel skal metoden håndtere disse kald:
 
 ```python
-printNumbers(15);
-printNumbers(5);
+print_numbers(15);
+print_numbers(5);
 ```
 
 og producere følgende output:
@@ -248,10 +246,10 @@ Calculate the sum of digits of a number given by user.
 Fx
 
 ```python
-sum1 = getSumOfNumbers(123)
+sum1 = get_sum_of_numbers(123)
 print(sum1) # 6
 
-sum2 = getSumOfNumbers(12345)
+sum2 = get_sum_of_numbers(12345)
 print(sum2) # 15
 ```
 
@@ -272,7 +270,7 @@ Write a Python method which iterates the integers from `start` to `end`. For  mu
 ```python
 start = 10
 end = 16
-fizzBuzz(start, end)
+fizz_buzz(start, end)
 # Buzz
 # 11
 # Fizz
@@ -291,9 +289,9 @@ Now instead of fizz being printede when multiples of 3 and buzz being printed wh
 ```python
 start = 10
 end = 16
-fizzMultiple = 4
-buzzMultiple = 6
-fizzBuzz(start, end, fizzMultiple, buzzMultiple)
+fizz_multiple = 4
+fizz_multiple = 6
+fizz_buzz(start, end, fizz_multiple, fizz_multiple)
 # 10
 # 11
 # Fizz Buzz
