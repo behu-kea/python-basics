@@ -13,7 +13,7 @@
 - Projects
   - [Crypto converter 🚀🌕💎🙌](projects/crypto-converter.md)
   - [String analyzer & BMI calculator 📈💻](projects/string-analyzer-bmi.md)
-  - [Flight booking fullname ✈️](projects/flight-booking-fullname.md)
+  - [Methods project](projects/methods-project.md) 
   - [Rock paper scissor 🤘🔖✂](projects/rock-paper-scissor.md)
   - [US forecasting & Zellers 📈](projects/zellers-congruence.md) 
 - [Studieordning](https://kompetence.kea.dk/studieordninger/AU_i_Informationsteknologi_2018_08_2019_04.pdf)
