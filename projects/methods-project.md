@@ -40,6 +40,14 @@ Try and create a userfriendly application that asks for the users details and th
 
 
 
+## Questions
+
+- What is the scope of a variable (in function)?
+- What is the difference between local and global variable?
+- What is the difference between a parameter and an argument?
+
+
+
 ## Trip calculator - optional
 
 Let's use functions to calculate your trip's costs:
@@ -62,14 +70,6 @@ If you rent the car for 7 or more days, you get $50 off your total. Alternativel
 Then, define a function called `trip_cost` that takes two arguments, `city` and `days`. Like the example above, have your function return the sum of calling the `rental_car_cost(days)`, `hotel_cost(days)`, and `plane_ride_cost(city)` functions.
 
 Now modify your `trip_cost` function definition. Add a third argument, `spending_money`. Modify what the `trip_cost` function does. Add the variable `spending_money` to the sum that it returns
-
-
-
-## Questions
-
-- What is the scope of a variable (in function)?
-- What is the difference between local and global variable?
-- What is the difference between a parameter and an argument?
 
 
 
