@@ -2,6 +2,10 @@
 
 
 
+**Link to class: shorturl.at/gpMS3**
+
+
+
 ## Preparation videos
 
 - [https://youtu.be/8fN8h7REnyo](https://youtu.be/8fN8h7REnyo)
@@ -61,8 +65,6 @@
 
 
 
-<!--
-
 ## Peer instruction
 
 
@@ -117,10 +119,6 @@ print(name_size % 3)
 4. `3`
 5. `4`
 6. Error thrown
-
--->
-
-
 
 
 
