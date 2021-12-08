@@ -12,6 +12,51 @@
 
 ### Question 1
 
+```python
+def add(a, b):
+	sum = a + b
+	print(sum)
+	
+numbers_sum = add(1, 2)
+print(numbers_sum)
+```
+
+What is printed when `numbers_sum` is printed?
+
+- `3`
+- `None`
+- `12`
+- `1, 2`
+- Error thrown
+
+
+
+### Question 2
+
+```python
+def get_balance_message(balance):
+  print_message = ""
+  if balance > 5000:
+    print_message = "That's a lot of money"
+  elif balance <= 5000 and balance > 1000:
+    print_message =  "That's an ok amount of money"
+  else:
+    print_message =  "That's not a lot of money"
+
+get_balance_message(5000)
+print(print_message)
+```
+
+What will be printed when `print_message` gets printed?
+
+- `"That's a lot of money"`
+- `"That's an ok amount of money"`
+- `"That's not a lot of money"`
+- `None`
+- Error thrown
+
+
+
 
 
 -->
@@ -31,6 +76,9 @@
   - Complex (valid password, valid email, example)
 - If, else if, else
 - Loop control: `break`, `continue`
+  - Break when i == 2. stopping at 2
+  - continue when i == 2, skipping 2
+
 - `try`, `except`
 - `random`
 
@@ -39,17 +87,32 @@
 ## Exercises
 
 - 8.1.1
-- 8.1.2
 - 8.2.1
-- Write a function that checks if a string password is valid. Here are the requirements
-  - The length of the password must be longer than 10 characters but shorter than 15
-  - The first character cannot be a number
-  - The last character cannot be `t` (for some weird reason)
-  - The password cannot contain the string `surdej` (for a perfectly fine reason)
-- 8.2.2
+- 8.3.2
 - 8.5.1
-- 8.5.2
-- Create a game where two users put in their names. Now two dice are rolled, the user with the highest number wins
+- 8.6.1
+
+
+
+## Level 2
+
+
+
+### Exercise 1
+
+Create a game where two users put in their names. Now two dice are rolled, the user with the highest number wins
+
+
+
+### Exercise 1.1
+
+Write a function that checks if a cpr number is valid
+
+
+
+### Exercise 2
+
+8.8
 
 
 

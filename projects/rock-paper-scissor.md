@@ -19,6 +19,19 @@ Now the users will play 1 round of rock paper scissor
 
 After the round a message should be printed that shows either who won or a message saying the game was a draw 
 
+Here is an example of how the terminal could look like
+
+```
+Welcome to 🤘🧻✂️
+Player 1 please write your name 👉 Benjamin
+Player 2 please write your name 👉 Camilla
+Benjamin write your move 👉 scissor
+Camilla write your move 👉 rock
+Camilla won 🎉
+```
+
+*How can we make it so that the users cannot see each others moves?*
+
 
 
 ## Singleplayer
@@ -29,7 +42,7 @@ After the rounds a message should be printed that shows either who won or a mess
 
 
 
-## Advanced level
+## Advanced level - *optional*
 
 
 
@@ -39,19 +52,13 @@ A game consists of 3 rounds
 
 
 
-### Player decides number of rounds
-
-Let the player decide the number of rounds
-
-
-
-## Expert level
+## Expert level - *optional*
 
 
 
 ### Player decides number of rounds
 
-Make it so that two players (person vs person and person vs computer) has to find a winner in each round. No draws, they keep playing until someone has lost!
+Make it so that two players (person vs person and person vs computer) has to find a winner. No draws, they keep playing until someone has lost!
 
 
 
