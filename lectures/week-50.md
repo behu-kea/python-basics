@@ -122,6 +122,20 @@ Write a function that checks if a cpr number is valid
 
 
 
+## Christmas challenges 🎄🎅❄️☃️
+
+These christmas challenges are completely optional. They are also a bit more advanced so to solve some of them you would need to know about lists. You can read up on lists in chapter 9.2. This is anyways required reading for week 1. 
+
+
+
+Advent of code is a coding challenge that has run for many years. Each day there is a new challenge. You need to sign up if you want to really participate. You could also just solve the problem being formulated. 
+
+- https://adventofcode.com/2021/day/1
+- https://adventofcode.com/2021/day/2
+- https://adventofcode.com/2021/day/3
+
+
+
 ## Before next class
 
 Check if you are ready with this quiz: https://realpython.com/quizzes/pybasics-conditional-logic/
