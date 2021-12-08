@@ -1,6 +1,16 @@
-city_name = "KøBeNhAvN"
-city_name_lower = city_name.lower()
-city_name_sliced = city_name_lower[3:6]
-print(city_name_sliced)
+import math
+# 6.2.1
 
-print("KøBeNhAvN".lower()[3:6])
+
+def cube(number):
+    # print(number)
+    # print(math.pow(number, 3))
+    return math.pow(number, 3)
+
+
+# print(cube(4))
+four_cubed = cube(4)
+print(four_cubed)
+
+#cube(6)
+

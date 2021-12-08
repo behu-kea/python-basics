@@ -167,8 +167,6 @@ word_analyzer("tesla")
 
 
 
-
-
 #### Exerise 1.1
 
 Write a method that as a parameter gets a number. It should then print to the console if the number is negative, positive or zero
@@ -314,3 +312,4 @@ fizz_buzz(start, end, fizz_multiple, fizz_multiple)
 ## Before next class
 
 Check if you are ready with this quiz:https://realpython.com/quizzes/pybasics-functions-loops/
+
