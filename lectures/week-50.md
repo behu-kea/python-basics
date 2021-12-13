@@ -2,9 +2,23 @@
 
 # Week 50 - Debugging, conditional logic and control flow
 
+Join [here](https://teams.microsoft.com/l/meetup-join/19:rkh5Vl9ssYsl6go6ZjONTrjgaxsha3T0RyQPdiU2I8E1@thread.tacv2/1639408908489?context=%7B%22Tid%22:%22d10c3c6e-c228-4944-8b6a-6067c6afe3c9%22,%22Oid%22:%2232e4ca2f-6ba3-4bdf-bb5f-7414a5ae6d0b%22%7D)
 
 
-<!--
+
+## Overview
+
+- Feedback on methods project
+  - **Rigtig** gode variabelnavne, men husk `ask_show_titel` ikke `askshowtitel`
+  - God brug af funktioner, argumenter, parametere og return, **men** brug funktioner meget mere!
+  - Try and wrap all code in functions now
+  - Fedt med `get_full_name`
+  - 
+- Peer instruction
+- Undervisning
+- Opgaver
+
+
 
 ## Peer instruction
 
@@ -54,10 +68,6 @@ What will be printed when `print_message` gets printed?
 - `"That's not a lot of money"`
 - `None`
 - Error thrown
-
-
-
--->
 
 
 
@@ -155,7 +165,3 @@ Advent of code is a coding challenge that has run for many years. Each day there
 ## Before next class
 
 Check if you are ready with this quiz: https://realpython.com/quizzes/pybasics-conditional-logic/
-
-
-
-Frontend, routing, vanilla, js, router, library, client, 
