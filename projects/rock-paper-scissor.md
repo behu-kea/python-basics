@@ -86,3 +86,29 @@ Make the game a bit more visual (in the terminal), fx print a hand with ascii ar
 ### Your idea here
 
 Be creative, come up with something fun 🎉
+
+
+
+
+
+
+
+## Handin
+
+Handin your project here: [https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=954892](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=954892)
+
+
+
+**Deadline: Sunday 02/01 23:59**
+
+
+
+### How to handin
+
+- Navigate to the link above
+- Click `Besvar opgave`
+- Leave `Dit svar` blank
+- Add your `.py` file where it says `Tilføj filer`
+  - You can do that by dragging and dropping 
+  - Or click the area and select the `.py` file 
+- Click `Send`

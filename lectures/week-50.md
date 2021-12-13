@@ -165,3 +165,14 @@ Advent of code is a coding challenge that has run for many years. Each day there
 ## Before next class
 
 Check if you are ready with this quiz: https://realpython.com/quizzes/pybasics-conditional-logic/
+
+
+
+
+
+```
+elif balance <= 5000 and balance > 1000:
+    print("That's an ok amount of money")
+else:
+    print("That's not a lot of money")
+```
