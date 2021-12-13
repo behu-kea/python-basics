@@ -68,18 +68,34 @@ What will be printed when `print_message` gets printed?
 - Logical operators
   - Boolean
   - `==`
-  - `!==`
+  - `!=`
   - `<`, `>`, `<=`, `>=`
-  - `&&`
-  - `||`
+  - `and`
+  - `or`
   - `not`
-  - Complex (valid password, valid email, example)
+  - password
+    - contains word `hej`
+    - does not contain word `password`
+    - Longer than 5 characters
+  
 - If, else if, else
+
+  - Balance example
+
 - Loop control: `break`, `continue`
+
   - Break when i == 2. stopping at 2
   - continue when i == 2, skipping 2
 
 - `try`, `except`
+
+  - ```
+    try:
+        a = 1/0
+    except Exception as e:
+        print(e)
+    ```
+
 - `random`
 
 

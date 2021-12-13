@@ -1,6 +1,6 @@
 import math
 # 6.2.1
-
+import random
 
 def cube(number):
     # print(number)
@@ -33,5 +33,21 @@ def get_balance_message(balance):
   else:
     print_message =  "That's not a lot of money"
 
-get_balance_message(5000)
+  return print_message
+
+print_message = get_balance_message(5000)
 print(print_message)
+
+
+print(False or True)
+
+try:
+    number_string = input("print number")
+    number = int(number_string)
+except:
+    print("error")
+
+try:
+    a = 1/0
+except Exception as e:
+    print(e)
