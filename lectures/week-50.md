@@ -57,8 +57,6 @@ What will be printed when `print_message` gets printed?
 
 
 
-
-
 -->
 
 
@@ -97,6 +95,8 @@ What will be printed when `print_message` gets printed?
     ```
 
 - `random`
+
+- Debugging
 
 
 
@@ -156,3 +156,6 @@ Advent of code is a coding challenge that has run for many years. Each day there
 
 Check if you are ready with this quiz: https://realpython.com/quizzes/pybasics-conditional-logic/
 
+
+
+Frontend, routing, vanilla, js, router, library, client, 
