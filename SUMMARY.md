@@ -13,9 +13,10 @@
 - Projects
   - [Crypto converter 🚀🌕💎🙌](projects/crypto-converter.md)
   - [String analyzer & BMI calculator 📈💻](projects/string-analyzer-bmi.md)
+  - [US forecasting & Zellers 📈](projects/zellers-congruence.md)
   - [Methods project](projects/methods-project.md) 
   - [Rock paper scissor 🤘🔖✂](projects/rock-paper-scissor.md)
-  - [US forecasting & Zellers 📈](projects/zellers-congruence.md) 
+  - [Data strcutures 💽](projects/data-strcutures.md)
 - [Studieordning](https://kompetence.kea.dk/studieordninger/AU_i_Informationsteknologi_2018_08_2019_04.pdf)
 - [Python cheatsheet](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=938377)
 
