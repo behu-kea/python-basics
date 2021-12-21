@@ -6,26 +6,29 @@
 
 - Datastructure
 - List examples
-- Tuple
+- Tuple/list
   - Creating a tuple
   - Contain any datatype
   - Built in tuple tuple("hello")
-  - Len, slicing, get value at index, 
   - Immutable
-  - Tuples are itterable. loop over them
-  - `in`
 
 
 
 - List
   - square brackets
-  - string split
-  - index, len, slicing, in, iterable
-  - mutable
+  - Change item, mutable
   - Pop, append, extend
   - List comprehension
   - Sort
-  - in
+  - string split
+
+
+
+Shared list/tuple
+
+- Len, slicing, get value at index
+- Iterable
+- In
 
 
 
@@ -65,8 +68,6 @@ In groups of two find a partner group. Then with the partner group decide what g
 
 1. Spend 10 minutes investigating in your group
 2. Spend 10 minutes presenting. Make it easy to understand
-
-
 
 
 

@@ -17,3 +17,8 @@ test = ["bim", "ben"]
 test.sort(key=get_second_character)
 print(test)
 
+test.append("asd")
+print(test)
+
+y = (1,2,3)
+
