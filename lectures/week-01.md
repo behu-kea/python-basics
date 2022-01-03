@@ -109,20 +109,22 @@ Shared list/tuple
 
 
 
-- Dictionaries
-  - Key, value
-  - Creating
-  - Acccessing
-  - Adding and removing values
+
+
+Dictionaries
+- Key, value
+- Creating
+- Acccessing
+- Adding and removing values
 
 
 
-- How to pick
-  - give some examples
-    - Student name and their grade
-    - Shopping list
-    - list of all danish cpr numbers
-    - A municipality and the number of people living there
+How to pick
+- give some examples
+  - Student name and their grade
+  - Shopping list
+  - list of all danish cpr numbers
+  - A municipality and the number of people living there
 
 
 
