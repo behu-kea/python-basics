@@ -22,3 +22,56 @@ print(test)
 
 y = (1,2,3)
 
+names = ("bejamin", 2, "hello")
+print(names[1])
+a = tuple("asd")
+print(a[0])
+names = ("bejaminasd", 3)
+print(names)
+
+names = ["asd", "a"]
+print(names)
+
+names[0] = 12
+print(names)
+
+h = names.pop(-1)
+print(names)
+names.extend([2,3,4])
+print(names)
+
+names = [1,2,3,4]
+for number in names:
+    print(number)
+
+names = [number * 2 for number in names]
+print(names)
+
+
+def get_name_length(name):
+    return len(name)
+
+
+names = ["asd", "asddf", "b"]
+names.sort(key = get_name_length, reverse=True)
+print(names)
+
+print("b" in names)
+
+o = {
+    "name": "benjamin",
+    "age": 23
+
+}
+print(o)
+print(o['name'])
+print(o['age'])
+del o["age"]
+print(o)
+o["name"] = "peter"
+print(o)
+n = {
+    "student": o
+}
+
+print(n)

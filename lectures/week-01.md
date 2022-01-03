@@ -5,22 +5,30 @@
 ## Topics
 
 - Datastructure
+  - Models data
+  - How would we model a student i a system?
+  - How would we model a chess piece moving?
+
 - List examples
 - Tuple/list
+  - Len, slicing, get value at index
   - Creating a tuple
   - Contain any datatype
-  - Built in tuple tuple("hello")
   - Immutable
+
 
 
 
 - List
   - square brackets
+  - Len, slicing, get value at index
   - Change item, mutable
   - Pop, append, extend
+  - Loop list
   - List comprehension
   - Sort
-  - string split
+    - `key`
+    - `Reverse = True`
 
 
 
@@ -87,7 +95,6 @@ List
 - 9.2.1
 - 9.2.2
 - 9.2.5
-- 9.2.6
 - 9.2.7
 - 9.2.8
 
@@ -96,7 +103,7 @@ List
 Dict
 
 - 9.6.1
-- 9.6. 2
+- 9.6.2
 - 9.6.3
 - 9.6.5
 
@@ -107,6 +114,12 @@ Dict
 - 9.4
 - 9.5
 - 9.9
+
+
+
+## Project for next class
+
+[Data structures 💽](../projects/data-structures.md)
 
 
 
