@@ -18,5 +18,5 @@
   - [Rock paper scissor 🤘🔖✂](projects/rock-paper-scissor.md)
   - [Data strcutures 💽](projects/data-strcutures.md)
 - [Studieordning](https://kompetence.kea.dk/studieordninger/AU_i_Informationsteknologi_2018_08_2019_04.pdf)
-- [Python cheatsheet](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=938377)
+- [Python cheatsheet](https://github.com/ehmatthes/pcc_2e/releases/download/v1.0.1/beginners_python_cheat_sheet_pcc_all.pdf)
 
