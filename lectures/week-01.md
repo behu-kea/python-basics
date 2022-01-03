@@ -33,13 +33,13 @@ else:
 
 ```
 
-- Peer instruction
+- Quiz
 - Undervisning
 - Opgaver
 
 
 
-## Peer instruction
+## Quiz
 
 ```python
 def is_logged_in(number):
