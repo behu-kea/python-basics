@@ -75,3 +75,15 @@ n = {
 }
 
 print(n)
+
+
+def is_logged_in(number):
+    return number[-1] == "a"
+
+if is_logged_in("hejsa"):
+    print("logged in")
+elif is_logged_in("hejsa"):
+    print("not logged in")
+else:
+    print("in else")
+

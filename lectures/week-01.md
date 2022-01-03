@@ -2,6 +2,68 @@
 
 
 
+## Overview
+
+- Feedback mht. Rock paper scissor
+  - For det første, virkelig gode afleveringer! Ikke så mange, men de er virkeligt gode!
+  - Only use global variables for truly global things. Define them in the top of the script. Avoid defining global inside a function
+  - I er blevet skarpe på functioner, **men** i bruger parametre og argumenter for lidt.
+  - Virkelig god brug af if, else, elif
+  - `player1move` -> `player_1_move`
+  - What method makes sense for this project? Pseudo code
+
+```python
+print("***************          Welcome to the Rock -> 🧠 Paper -> 🗒 Scissor -> ✂ Game  **********************")
+print("*************** The game has 2 modes - play 2 people or you can play against the computer ***************")
+print("The rules are\n rock wins over(smashes) scissor\n paper wins over(wraps) rock\n scissor wins over(cut) paper")
+
+print("\nPlease enter S for Single Player Mode \n          or M for Multi Player Mode")
+play_mode = input()
+
+if play_mode == "M":
+    print("You have selected Multipalyer Mode")
+    multi_player_mode()
+elif play_mode == "S":
+    print("You have selected Single player Mode")
+    single_player_mode()
+else:
+    print("You did not select a valid option -- The Program will end - Bye")
+    exit()
+
+
+```
+
+- Peer instruction
+- Undervisning
+- Opgaver
+
+
+
+## Peer instruction
+
+```python
+def is_logged_in(number):
+    return number[-1] == "a"
+
+if is_logged_in("hejsa"):
+    print("logged in")
+elif is_logged_in("hejsa"):
+    print("not logged in")
+else:
+    print("in else")
+```
+
+Hvad bliver printet
+
+- `logged in`
+- `not logged in`
+- `in else`
+- `logged in`, `not logged in`
+- `logged in`, `in else`
+- Throws error
+
+
+
 ## Topics
 
 - Datastructure
